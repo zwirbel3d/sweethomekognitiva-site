@@ -1,0 +1,39 @@
+<svg
+  viewBox="0 0 1024 1024"
+  role="img"
+  aria-label="Sweet Home Kognitiva Symbol"
+  xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+    <clipPath id="tri-clip" clipPathUnits="userSpaceOnUse">
+      <polygon points="80,137.8770256 944,137.8770256 512,886.1229744" />
+    </clipPath>
+  </defs>
+
+  <rect x="0" y="0" width="1024" height="1024" fill="#000000" />
+
+  <g clip-path="url(#tri-clip)" transform="rotate(180,512,512)">
+    <circle
+      cx="512"
+      cy="387.29233"
+      r="249.41531"
+      fill="none"
+      stroke="#ffffff"
+      stroke-width="22.49" />
+  </g>
+
+  <polygon
+    points="944,137.87703 512,886.12297 80,137.87703"
+    fill="none"
+    stroke="#ffffff"
+    stroke-width="22.49"
+    stroke-linejoin="round"
+    transform="rotate(180,512,512)" />
+
+  <circle
+    cx="512"
+    cy="636.70654"
+    r="58.88"
+    fill="#ffffff" />
+
+</svg>
